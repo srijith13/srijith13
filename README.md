@@ -9,4 +9,9 @@ I am currently working on the GIT Desktop application.<br>I am looking to collab
 ![](https://nirzak-streak-stats.vercel.app/?user=srijith31&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srijith31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
