@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on the GIT Desktop application.<br>I am looking to collaborate on GoLang and Python-based projects.<br>
+<br>I am looking to collaborate on GoLang and Python-based projects.<br>
 
 
 # 💻 Tech Stack:
